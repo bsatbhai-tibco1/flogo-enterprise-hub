@@ -79,8 +79,6 @@ For running the application,
 
 5. Now Run the Flogo SAPS4HANA app. 
 
-![Run the app](../../../images/SAPS4HANA/Run_App_1.png)
-
 6. After running app hit the endpoint and see the results.
 
 7. After endpoint hit you will able to see the logs in VS code terminal.

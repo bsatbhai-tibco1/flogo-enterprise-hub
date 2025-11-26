@@ -33,8 +33,7 @@ a. Connection Name - In this field we give the connection name.
 b. Tenant Id - For Tenant Id goto to the app registration from Azure portal then select your  account and then copy the Tenant Id.  
 c. Client Id - For Client Id goto to the app registration from Azure portal then select  your account and then copy the Client Id.  
 d. User Name - Add the User name.  
-e. Password -  Add the Password of the user.        
-Note: On everyday new password is generated.
+e. Password -  Add the Password of the user.
 
 f. Resource Group- Need to pass the resource group name as "https://management.azure.com".
 
